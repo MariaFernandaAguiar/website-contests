@@ -1,0 +1,8 @@
+{
+  "name": "time_to_answer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MariaFernandaAguiar/website-contests.git",
+  "author": "maria <abreuaguiar07@gmail.com>",
+  "license": "MIT"
+}
